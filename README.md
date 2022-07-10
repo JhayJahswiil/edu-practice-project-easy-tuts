@@ -1,2 +1,2 @@
 # edu-practice-project-easy-tuts
-inspired by easy tutorials
+inspired by easy tutorials. Use this link to access it
